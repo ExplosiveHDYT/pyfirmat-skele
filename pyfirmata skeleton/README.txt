@@ -1,5 +1,5 @@
-You need to install the Firmata software on your arduino by going to 
-File >>> Examples >>> Firmatas >>> Standards Firmata
+You need to install the Firmataa software on your arduino by going to 
+File >>> Examples >>> Firmatas >>> Standard-Firmaata
 
 I would also recomend replacing on line 55 from
 int analogInputsToReport = 0;; //reporting is off 
