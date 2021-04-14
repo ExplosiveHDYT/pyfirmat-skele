@@ -26,7 +26,7 @@ def ezfirmata_instructions():
     print("The variables that you will need  delay/sleep, Iterate, analogpin and digitalpin")
 
 
-# a sample code
+#a sample code
 def blinktest():
     while True:
         # digitalpin[4].write(1) 1 = on 0 = off 
@@ -36,6 +36,7 @@ def blinktest():
         digitalpin[13].write(0)
         sleep(1)
 
+#another sample code
 def analogreadtest():
     iterate.start()
     while True:
