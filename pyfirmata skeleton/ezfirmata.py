@@ -23,7 +23,7 @@ delay = sleep
 # My code has abseloutly no licence what so ever so feel free to use it
 
 def ezfirmata_instructions():
-    print("The variables that you will need  delay/sleep, Iterate, analogpin and digitalpin")
+    print("The variables that you will need  delay/sleep, Iterate, analogpin and digitalpin and if you want sample code there is blinktest() and analogread()")
 
 
 #a sample code
